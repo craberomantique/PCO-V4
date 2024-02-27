@@ -1,0 +1,17 @@
+# Ignore environment-specific configuration files
+.env
+
+# Ignore platform-specific dependencies
+node_modules/
+venv/
+
+# Ignore backup files
+*.bak
+*.swp
+
+# Ignore build files
+dist/
+build/
+
+# Ignore log files
+logs/
