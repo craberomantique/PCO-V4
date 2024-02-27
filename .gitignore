@@ -1,9 +1,22 @@
-#.gitignore file for this project
+# Ignore system and editor files
+.DS_Store
+Thumbs.db
+.vscode/
 
-.docker
-.vscode
+# Ignore environment-specific files
+.env
+
+# Ignore dependencies directories
 node_modules/
-certs/
-conf.d/
-data/
-vhost.d/
+venv/
+
+# Ignore build files
+dist/
+build/
+
+# Ignore log files
+logs/
+
+# Ignore temporary files
+*.tmp
+*.log
