@@ -1,1 +1,1 @@
-Déposer ici tous les addons ou templates personnalisés, etc.
+Drop any custom addons or templates, etc. here.
